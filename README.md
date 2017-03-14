@@ -1,2 +1,1 @@
-# trump2orangejulius
-Chrome Extension to change the word Trump to Orange Julius
+This is your Chrome extension which replaces the word Trump with Orange Julius.

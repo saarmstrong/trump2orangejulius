@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+    "name": "Trump2OrangeJulius",
+    "description": "change the word trump to orange julius",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
