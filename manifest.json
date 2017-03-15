@@ -2,7 +2,7 @@
 "manifest_version": 2,
     "name": "Trump2OrangeJulius",
     "description": "change the word trump to orange julius",
-    "version": "1.1",
+    "version": "1.2",
     "content_scripts": [
         {
             "matches": [
